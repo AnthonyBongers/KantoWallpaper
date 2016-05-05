@@ -3,6 +3,19 @@ An Android Live Wallpaper that scrolls through the different regions of Kanto in
 
 Supports Ice Cream Sandwich and above (could probably even make it lower, and support all 10 people who have an older android than that).
 
+## Regions
+
+The wallpaper scrolls around these regions: 
+- Pallet Town
+- Veridian City
+- Pewter City
+- Cerulean City
+- Vermilion City
+- Lavender City (Small town, so it only has two waypoints. Needs improvement)
+- Celadon City
+- Fuchsia City
+- Cinnabar Island (Doesn't even move because the island is so small. Maybe remove?)
+
 ## Preview
 
 I made a gif preview. I don't know how to make a well optimized gif, so it looks a lot faster and smoother on device :(
