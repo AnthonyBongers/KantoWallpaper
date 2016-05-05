@@ -1,7 +1,7 @@
 # Kanto Wallpaper
 An Android Live Wallpaper that scrolls through the different regions of Kanto in Pokemon.
 
-Supports Ice Cream Sandwich and above (could probably even make it lower, and support all 10 people who have an older android than that).
+Supports Ice Cream Sandwich and above (could probably even make it lower, and support all 10 people who have an older android device than that).
 
 ## Regions
 
