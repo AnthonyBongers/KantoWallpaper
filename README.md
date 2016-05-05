@@ -3,6 +3,8 @@ An Android Live Wallpaper that scrolls through the different regions of Kanto in
 
 Supports Ice Cream Sandwich and above (could probably even make it lower, and support all 10 people who have an older android device than that).
 
+Check the Releases Tab to download the current APK.
+
 ## Regions
 
 The wallpaper scrolls around these regions: 
