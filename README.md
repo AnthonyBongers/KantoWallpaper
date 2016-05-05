@@ -16,6 +16,8 @@ The wallpaper scrolls around these regions:
 - Fuchsia City
 - Cinnabar Island (Doesn't even move because the island is so small. Maybe remove?)
 
+I might add a few routes in there soon too. 
+
 ## Preview
 
 I made a gif preview. I don't know how to make a well optimized gif, so it looks a lot faster and smoother on device :(
