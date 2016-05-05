@@ -5,6 +5,6 @@ Supports Ice Cream Sandwich and above (could probably even make it lower, and su
 
 ## Preview
 
-I made a gif preview. I don't know how to make a well optimized gif, so it looks a lot better on device :(
+I made a gif preview. I don't know how to make a well optimized gif, so it looks a lot faster and smoother on device :(
 
 ![Preview](./preview.gif)
