@@ -38,6 +38,6 @@ The json file contains an array of areas that can be used as the wallpaper, and 
 
 <b>viewport</b>: The size (in pixels) on the viewport that the device will scale to fit the screen. If the phone is in portrait, the vertical height will contain the number of pixels defined as the viewport, and the width will be the <i>viewport * the aspect ratio of the device</i>.
 
-<b>speed<b>: Used to make the wallpaper scroll faster or slower. Defined as pixels per frame. Wallpapers with a smaller viewport will seem to go faster than one with a larger viewport, since the speed is in pixels, and a smaller viewport is showing fewer pixels from the picture at any given moment.
+<b>speed</b>: Used to make the wallpaper scroll faster or slower. Defined as pixels per frame. Wallpapers with a smaller viewport will seem to go faster than one with a larger viewport, since the speed is in pixels, and a smaller viewport is showing fewer pixels from the picture at any given moment.
 
 <b>nodes</b>: An array of coordinates to scroll to. Keep in mind that if your viewport is defined as 100, a top-left node should be { 50, 50 }, since { 0, 0 } would try to show outside the bounds of the image since the viewport is centered on the node. For variety in wallpapers, the beginning node is randomly selected, and the node order is reversed 50% of the time. 
