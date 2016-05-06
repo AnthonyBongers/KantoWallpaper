@@ -3,7 +3,7 @@ An Android Live Wallpaper that scrolls through the different regions of Kanto in
 
 Supports Ice Cream Sandwich and above (could probably even make it lower, and support all 10 people who have an older android device than that). It's only been tested on my Vivo 5 (Android Lolipop) device, so let me know it something doesn't work for your device.
 
-Check the Releases Tab to download the current APK.
+Check the [Releases Tab](https://github.com/AnthonyBongers/KantoWallpaper/releases) to download the current APK.
 
 ## Regions
 
