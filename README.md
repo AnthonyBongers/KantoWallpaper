@@ -24,7 +24,7 @@ I might add a few routes in there soon too.
 
 I made a gif preview. I don't know how to make a well optimized gif, so it looks a lot faster and smoother on device :(
 
-![Preview](./preview.gif)
+![Preview](./android-screen.tmp.gif)
 
 ## Customizing
 
